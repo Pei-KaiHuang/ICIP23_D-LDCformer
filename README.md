@@ -22,9 +22,9 @@ torchvision==0.11.2
 ```
 
 ## Training & Testing
-Run `train.py` to train DCViT
+Run `train.py` to train LDCformer
 
-Run `test.py` to test DCViT
+Run `test.py` to test LDCformer
 
 ## Citation
 
