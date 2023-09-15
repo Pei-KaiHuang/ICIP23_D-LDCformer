@@ -29,7 +29,7 @@ Run `test.py` to test LDCformer
 ## Citation
 
 If you use the LDCformer/Decoupled-LDC, please cite the paper:
- 
+ ```
 @inproceedings{huang2023ldcformer,
   title={LDCformer: Incorporating Learnable Descriptive Convolution to Vision Transformer for Face Anti-Spoofing},
   author={Huang, Pei-Kai and Chiang, Cheng-Hsuan and Chong, Jun-Xiong and Chen, Tzu-Hsien and Ni, Hui-Yu and Hsu, Chiou-Ting},
@@ -38,10 +38,10 @@ If you use the LDCformer/Decoupled-LDC, please cite the paper:
   year={2023},
   organization={IEEE}
 }
-
  @inproceedings{huang2022learnable,
   title={Learnable Descriptive Convolutional Network for Face Anti-Spoofing},
   author={Huang, Pei-Kai and H.Y. Ni and Y.Q. Ni and C.T. Hsu},
   booktitle={BMVC},
   year={2022}
-} 
+}
+```
