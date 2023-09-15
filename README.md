@@ -1,7 +1,7 @@
-# DCViT
-### DC-VIT: COMBINING DUAL-CROSS LEARNABLE DESCRIPTIVE CONVOLUTION AND VISION TRANSFORMER FOR ENHANCED FACE ANTI-SPOOFING (ICIP '23)
+# LDCformer
+### LDCformer: Incorporating Learnable Descriptive Convolution to Vision Transformer for Face Anti-Spoofing (ICIP '23)
 
-## Dual-Cross Learnable Descriptive Convolution (DC-LDC)
+## Decoupled Learnable Descriptive Convolution (DC-LDC)
 ![plot](figures/Dual_cross_ldc.png)
 
 ## Architecture of LDCformer
