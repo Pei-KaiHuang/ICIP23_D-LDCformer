@@ -1,7 +1,7 @@
 # LDCformer
 ### LDCformer: Incorporating Learnable Descriptive Convolution to Vision Transformer for Face Anti-Spoofing (ICIP '23)
 
-## Decoupled Learnable Descriptive Convolution (DC-LDC)
+## Decoupled Learnable Descriptive Convolution (Decoupled -LDC)
 ![plot](figures/Dual_cross_ldc.png)
 
 ## Architecture of LDCformer
