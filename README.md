@@ -4,8 +4,11 @@
 ## Dual-Cross Learnable Descriptive Convolution (DC-LDC)
 ![plot](figures/Dual_cross_ldc.png)
 
-## Architecture of DCViT
-![plot](figures/framework.png)
+## Architecture of LDCformer
+![plot](figures/framework3.png)
+
+## Architecture of Decoupled-LDC Block
+![plot](figures/D_LDC_Encoder.png)
 
 ## Requirements
 ```
