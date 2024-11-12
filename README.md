@@ -28,7 +28,7 @@ Run `test.py` to test LDCformer
 
 ## Citation
 
-If you use the LDCformer/Decoupled-LDC, please cite the paper:
+If you use the LDCformer/Decoupled-LDC, please cite the paper, thank you:
  ```
 @inproceedings{huang2023ldcformer,
   title={LDCformer: Incorporating Learnable Descriptive Convolution to Vision Transformer for Face Anti-Spoofing},
